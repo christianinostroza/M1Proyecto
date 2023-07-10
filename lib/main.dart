@@ -89,7 +89,7 @@ class _CounterScreenState extends State<CounterScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Proyecto M1. App de contador progresivo'),
+        title: const Text('Proyecto M1. App de contador progresivo UDD'),
       ),
       body: Stack(
         children: <Widget>[
